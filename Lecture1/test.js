@@ -1,0 +1,1 @@
+document.getElementById("sec-atomics.compareexchange")
