@@ -8,7 +8,7 @@ Practice resource:
  - [promises quiz game](https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/its-quiz-time)
  - [123 js questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
  - [Flexbox](https://flexboxfroggy.com/)
- - [Vim editor learning game](https://vim-adventures.com/)
+ - [Vim editor learning game for FUN](https://vim-adventures.com/)
  - [Css grid](https://cssgridgarden.com/)
  - https://leetcode.com/problems/add-two-promises/description/
  - https://leetcode.com/problems/promise-time-limit/description/
