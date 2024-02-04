@@ -5,12 +5,12 @@ class Complex {
     }
 
     add(num) {
-        return `${this.real + num.real} + i${this.imag + num.imag}`
+        return `${this.real + num.real} + i${this.imag + num.imag}`;
     }
     
 
     multiply(num) {
-        return `${this.real*num.real - this.imag*num.imag} + i ${this.real*num.imag + this.imag*num.real}`
+        return `${this.real*num.real - this.imag*num.imag} + i ${this.real*num.imag + this.imag*num.real}`;
     }
 }
 
